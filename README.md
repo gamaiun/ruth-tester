@@ -3,6 +3,9 @@
 A modern web application for uploading, processing, and visualizing trading data with professional charts.
 ![RAG Assistant Web Interface](2.PNG)
 
+Deployed on Vercel:
+https://ruth-tester-1aftuj3kg-tapak217gmailcoms-projects.vercel.app/
+
 ## 🚀 Features
 
 - **CSV Data Upload**: Easy drag-and-drop interface for uploading trading data files
