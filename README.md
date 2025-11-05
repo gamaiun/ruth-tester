@@ -1,6 +1,7 @@
 # Ruth Tester - Trading Data Visualization Platform
 ![RAG Assistant Web Interface](1.PNG)
 A modern web application for uploading, processing, and visualizing trading data with professional charts.
+![RAG Assistant Web Interface](2.PNG)
 
 ## 🚀 Features
 
