@@ -1,5 +1,6 @@
 # Ruth Tester - Trading Data Visualization Platform
-
+(./1.png)
+(./2.png)
 A modern web application for uploading, processing, and visualizing trading data with professional charts.
 
 ## 🚀 Features
