@@ -93,7 +93,7 @@ Ruth Tester focuses on clean, professional data visualization without unnecessar
 
 ## 🚀 Live Demo
 
-Visit the live application: [Ruth Tester](https://ruth-tester-l3lauxn9s-tapak217gmailcoms-projects.vercel.app)
+Visit the live application: [Ruth Tester](https://ruth-tester-1aftuj3kg-tapak217gmailcoms-projects.vercel.app)
 
 ---
 
