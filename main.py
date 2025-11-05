@@ -24,11 +24,13 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",  # Local development
-        "https://ruth-tester-l3lauxn9s-tapak217gmailcoms-projects.vercel.app",  # Production Vercel URL
-        "https://*.vercel.app",  # All Vercel apps (for auto-deployments)
+        "https://ruth-tester-l3lauxn9s-tapak217gmailcoms-projects.vercel.app",  # Original Vercel URL
+        "https://ruth-tester-1aftuj3kg-tapak217gmailcoms-projects.vercel.app",  # New production Vercel URL
+        "https://ruth-tester.vercel.app",  # Short URL if assigned
+        "*"  # Allow all origins for testing (can be restricted later)
     ],
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
 )
 
